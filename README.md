@@ -2,7 +2,9 @@
 
 Social Book is a Django-based social media platform designed to provide users with an engaging social experience. This platform supports user authentication, profile management, post sharing, following other users, liking posts, and searching for profiles. With a focus on simplicity and ease of use, Social Book is a lightweight social media app with core functionalities needed to interact and share content.
 
-![Logo](path_to_your_logo_image)
+Logo : 
+![image](https://github.com/user-attachments/assets/c8236927-16f4-44af-b005-fdd076572e5a)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Table of Contents
 
